@@ -12,6 +12,11 @@ This repository contains automation tests for the [Sauce Demo](https://www.sauce
 - **Page Object Model**: Ensures maintainability and reusability of code by separating test logic from the page interaction logic.
 - **Extent Reports**: Generates detailed HTML reports for test execution results.
 
+## Resources
+
+Test Cases: [SauceDemo Automation Test Cases](https://docs.google.com/spreadsheets/d/1Yibl_7FgoWAe0E_scjkTyTt1KXzSfMKLS25UL9ZB6fs/edit?gid=1263057882#gid=1263057882)
+Demo Video: [Watch on YouTube](https://youtu.be/A5RqzEYgcoQ)
+
 ## Setup
 
 ### Prerequisites
